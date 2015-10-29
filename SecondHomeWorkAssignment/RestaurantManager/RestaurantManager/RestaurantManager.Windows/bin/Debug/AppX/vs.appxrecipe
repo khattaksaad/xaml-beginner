@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC01RW26-PC</Machine>
+    <WindowsUser>b-khsaad</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>33e5cbb3-ac94-4393-9df7-10627ff2b5c4</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C89021F8BD03202905D1FF68B84DF6BE2DF54C41A806DA41E911F0BCDB9293C3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>33e5cbb3-ac94-4393-9df7-10627ff2b5c4_1.0.0.0_neutral__hqg5g3aztjzm4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>33e5cbb3-ac94-4393-9df7-10627ff2b5c4_hqg5g3aztjzm4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>33e5cbb3-ac94-4393-9df7-10627ff2b5c4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=b-khsaad</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-27T09:25:11.810</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\bin\Debug\RestaurantManager.Windows.exe">
+      <PackagePath>RestaurantManager.Windows.exe</PackagePath>
+      <Modified>2015-10-29T09:24:42.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\Assets\LargeSquareLogo.scale-80.png">
+      <PackagePath>Assets\LargeSquareLogo.scale-80.png</PackagePath>
+      <Modified>2015-10-27T09:21:36.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-27T09:21:36.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-27T09:21:36.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-27T09:21:36.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\Assets\SmallSquareLogo.png">
+      <PackagePath>Assets\SmallSquareLogo.png</PackagePath>
+      <Modified>2015-10-27T09:21:36.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-27T09:21:36.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\bin\Debug\RestaurantManager.Windows.xr.xml">
+      <PackagePath>RestaurantManager.Windows.xr.xml</PackagePath>
+      <Modified>2015-10-29T09:24:42.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-10-29T09:24:42.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\bin\Debug\ExpeditePage.xbf">
+      <PackagePath>ExpeditePage.xbf</PackagePath>
+      <Modified>2015-10-29T09:24:42.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-10-29T09:24:42.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\bin\Debug\OrderPage.xbf">
+      <PackagePath>OrderPage.xbf</PackagePath>
+      <Modified>2015-10-29T09:24:42.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-27T09:25:11.656</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
