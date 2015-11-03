@@ -1,0 +1,17 @@
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.dll
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pdb
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\bin\Debug\RestaurantManager.Models.pri
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.dll
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.pdb
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\priconfig.xml
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\priconfig.xml.intermediate
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\layout.resfiles
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\layout.resfiles.intermediate
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\resources.resfiles
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\resources.resfiles.intermediate
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\pri.resfiles
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\pri.resfiles.intermediate
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\qualifiers.txt
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\qualifiers.txt.intermediate
+C:\Users\b-khsaad\Documents\Visual Studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\b-khsaad\documents\visual studio 2013\Projects\RestaurantManager\RestaurantManager.Models\obj\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\b-khsaad\documents\visual studio 2013\Projects\RestaurantManager\RestaurantManager.Models\RestaurantManager.Models.csproj;neutral
+C:\Users\b-khsaad\documents\visual studio 2013\Projects\RestaurantManager\RestaurantManager\RestaurantManager.Windows\RestaurantManager.Windows.csproj;neutral
